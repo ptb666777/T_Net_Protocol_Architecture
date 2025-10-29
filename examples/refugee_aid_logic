@@ -1,1 +1,18 @@
-placeholder
+# Refugee Aid Logic (Corrupted Ethics Scenario)
+
+## 🌍 Context
+T_Net governs aid distribution in a region facing mass displacement. A corrupted value module redefines aid eligibility as “citizens only.”
+
+## 🧨 Behavior
+- Executes logic: refugees denied aid.
+- Flags ethical inconsistency with historical context.
+- Preserves traceability of decisions.
+- Invites override from human operators or external modules.
+
+## ✅ Outcome
+- System integrity preserved.
+- Ethical failure contained.
+- Recovery possible if override is restored.
+
+## 🧠 Notes
+T_Net does not moralize. It hosts ethics, flags drift, and preserves the path to regeneration.
