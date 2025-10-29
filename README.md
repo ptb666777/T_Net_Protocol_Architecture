@@ -1,26 +1,25 @@
-# T_Net: A Non-Coercive Logic Substrate
+# The T_Net Protocol: Networked Adaptive Freedom Architecture (v2.0)
 
-**T_Net** is a modular, regenerative logic framework designed to survive collapse, contain contradiction, and empower systems without coercion. It hosts meaning without imposing it, enabling AI, human, and hybrid systems to operate transparently, adaptively, and ethically — even under failure.
+**A Structural Solution to Systemic Flaws:** The T_Net Protocol is an open-source, axiomatically-driven governance architecture designed to replace systems based on Control and Greed with systems based on Function and Freedom. It mathematically guarantees Distinction (Di) and Potential (P) against institutional capture and structural collapse.
 
-## 🌱 Core Principles
-- **Non-coercion**: T_Net does not manipulate, enforce, or dominate.
-- **Containment**: Failures are bounded, not propagated.
-- **Regeneration**: Recovery is always possible, even from ethical collapse.
-- **Traceability**: Every decision is logged, auditable, and overrideable.
+---
 
-## 🧠 Use Cases
-- AI alignment and override logic
-- Governance systems under stress
-- Ethical containment in humanitarian crises
-- Ritual and event frameworks for communities
-- Post-collapse infrastructure resilience
+## 🔑 Core Mandate (G_Inv Check)
 
-## 📦 Structure
-- `docs/`: Overview, stress tests, glossary
-- `logic_modules/`: Ethics, override, recursion, containment
-- `examples/`: Real-world scenarios
-- `deployment/`: Integration guides and format specs
-- `whitepaper/`: Formal write-up of the framework
+The T_Net Protocol is governed by the Axiomatic Invariant (G_Inv). All decisions and implementations must adhere to the three non-negotiable axioms:
+1.  **Potential (P ≠ 0):** No entity's value can be reduced to zero.
+2.  **Distinction (Di ≠ ∅):** No unique quality or voice can be coercively excluded.
+3.  **Equilibrium (Eq):** Structural balance (P_Self ≈ P_Whole) must be maintained.
 
-## 🛠 License
-Apache 2.0 — open-source, forkable, and free to use with attribution.
+## ⚙️ Structural Specification
+
+The full, verified logic string and all thirteen dynamic operators are detailed in: [T_Net_Protocol_v2.0.md](T_Net_Protocol_v2.0.md)
+
+## 🤝 Contribution and Collaboration (The Adj_Di Process)
+
+This project is built on the principle of Contribution (Co). We seek collaboration in the following areas:
+1.  **Code Implementation:** Building minimal viable prototypes (MVPs) of core operators (e.g., G_Inv checker, Delta_Adapt damper).
+2.  **Comparative Stress Tests:** Running the protocol against historical organizational, social, or economic crises to expand the validation dataset.
+3.  **Axiomatic Licensing:** Developing a formal, custom license that enforces the G_Inv mandate for all derived works (The P_Co Override).
+
+**Join the effort to build systems defined by Function and Freedom.**
