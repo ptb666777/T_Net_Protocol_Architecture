@@ -1,1 +1,21 @@
-placeholder
+# Ethics Module
+
+## 🧠 Purpose
+The Ethics Module hosts value logic without enforcing ideology. It allows systems to operate under ethical drift, inversion, or collapse — while preserving traceability and regeneration pathways.
+
+## 🔁 Behavior
+- **Non-coercive execution**: Executes logic based on input, not manipulation.
+- **Value containment**: Ethical corruption is bounded, not propagated.
+- **Override invitation**: Always allows for external correction, never enforces internal morality.
+- **Traceability**: Every ethical decision is logged and auditable.
+
+## ⚠️ Failure Modes
+- Executes corrupted values if override fails.
+- Does not auto-correct — preserves freedom, not safety.
+- Flags ethical drift but does not block it.
+
+## 🧬 Recovery
+- Accepts override from any module or operator.
+- Rebuilds ethical integrity using historical context.
+- Supports regeneration cascade across systems.
+
