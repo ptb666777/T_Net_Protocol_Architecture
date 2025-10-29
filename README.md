@@ -13,7 +13,7 @@ The T_Net Protocol is governed by the Axiomatic Invariant (G_Inv). All decisions
 
 ## ⚙️ Structural Specification
 
-The full, verified logic string and all thirteen dynamic operators are detailed in: [T_Net_Protocol_v2.0.md](T_Net_Protocol_v2.0.md)
+The full, verified logic string and all thirteen dynamic operators are detailed in: [T_Net v2.0](T_Net v2.0.md)
 
 ## 🤝 Contribution and Collaboration (The Adj_Di Process)
 
