@@ -1,0 +1,26 @@
+# Glossary of T_Net Protocol Axioms and Operators
+
+This glossary provides non-negotiable definitions for the core logic, ensuring structural coherence (K*).
+
+## I. Foundational Axioms (The Moral Hard-Stop)
+
+| Term | Symbol | Definition and Role |
+| :--- | :--- | :--- |
+| **Potential** | P | The irreducible, non-zero value of any entity or system component. **Axiom: P ≠ 0.** |
+| **Distinction** | Di | The necessity of unique qualities and voices. Forbids exclusion and homogenization. **Axiom: Di ≠ ∅.** |
+| **Equilibrium** | Eq | The state of balance where P_Self ≈ P_Whole. Mandates non-hierarchical mutual benefit. |
+| **Coherence** | K* | The operational health metric. K* is maximized when P, Di, and Eq are maintained and maximized (K* ↑). |
+| **Coherence Mandate** | S_Net | The core structural law: S_Net | K* ↑ = Eq [P ↔ Co]. The driving force of the system. |
+
+## II. Primary Structural Operators
+
+| Operator | Symbol | Functional Role (The "What it Does") |
+| :--- | :--- | :--- |
+| **Axiomatic Invariant** | G_Inv | **Moral Hard-Stop:** A pre-check layer that mathematically verifies a solution adheres to P≠0, Di≠∅, and Eq before consensus. |
+| **Reconciliation** | Reconcile | Generates structural solutions to conflicts/incoherence (X) by referencing the S_Net mandate. |
+| **Networked Causal-Resolution** | C_Net | **Crisis Engine:** Identifies the SCN_RC (Smallest Coherent Network of Root Causes) and mandates Reconcile target this root. Includes Emergency Path (Γ_E). |
+| **Adaptive Damping** | Δ_Adapt | **Control:** Regulates the rate of change using dynamic Hysteresis (ε) to prevent panic or oscillation under rapid input. |
+| **Decentralized Adjudication** | Adj_Di | **Consensus Firewall:** Runs decentralized, diverse voting on solutions to prevent centralized control. |
+| **Coherent Protocol** | P_Co | **Cryptographic Anchor:** Enforces solutions immutably (e.g., via ledger); **overrides SC when P or Eq are violated.** |
+| **Structural Commitment** | SC | **Institutional Anchor:** Binds the solution to the long-term, legacy operational structure. |
+| **Obfuscation** | Obf | **Boundary Protocol:** Manages external interfaces and contains the Monitored Δ Sandbox for ethical mutation/experimentation. |
